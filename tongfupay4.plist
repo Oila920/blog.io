@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.140.214:8018/sshframe/sys/exportFile.do?path=&amp;fileName=/home/apppack/ios/xtb/test_prod/%25E6%2598%259F%25E9%2580%259A%25E5%25AE%259D_3131_3798_2019_12_13_14_03_23.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xingtongbao.fz</string>
+				<key>bundle-version</key>
+				<string>1.10</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>通付MPOS(蓝牙)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
