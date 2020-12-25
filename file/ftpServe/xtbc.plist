@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.140.214:8018/sshframe/sys/exportFile.do?path=&fileName=/home/apppack/ios/xtb/test_prod/xtb.ipa</string>
+					<string>http://192.168.140.214:8018/sshframe/sys/exportFile.do?path=&amp;fileName=/home/apppack/ios/xtb/test_prod/xtb.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
